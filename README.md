@@ -1,6 +1,7 @@
-# Webpage.github.io
+# Webpage
 # Gilly
-## And often Marco
+## And often Marco  
+  
 Just doing things around the Northwest trying to have fun  
 Everyday is an adventure  
   
